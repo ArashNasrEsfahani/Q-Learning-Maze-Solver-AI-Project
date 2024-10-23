@@ -1,4 +1,4 @@
-# q-learning-maze-solver-AI-project
+# Q-Learning-Maze-Solver-AI-Project
 
 This project implements a Q-Learning algorithm to solve a maze navigation problem. The goal is for an agent to traverse the environment, collect all flags, and reach the target without hitting any obstacles.
 
